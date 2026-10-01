@@ -1,0 +1,10 @@
+{
+  "name": "SAKHI AI - Government Scheme Assistant for Women",
+  "description": "Voice-first AI assistant helping women independently discover, understand, and apply for government schemes in Tamil, English, Hindi, and Telugu.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
